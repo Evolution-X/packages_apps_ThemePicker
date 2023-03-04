@@ -18,8 +18,6 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Попередній перегляд іконки</string>
     <string name="icon_pack_title">Системні набори іконок</string>
-    <string name="system_icons">Системні іконки</string>
-    <string name="themed_icon_custom_title">Користувацькі тематичні вконки</string>
     <!-- Font's section -->
     <string name="font_title">Системні шрифти</string>
     <string name="font_preview_card_content_description">Попередній перегляд шрифту</string>
