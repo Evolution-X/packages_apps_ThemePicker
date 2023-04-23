@@ -20,5 +20,5 @@
     <string name="icon_pack_title">システムアイコンパック</string>
     <!-- Font's section -->
     <string name="font_title">システムフォント</string>
-    <string name="font_preview_card_content_description">フォントプレビュー</string>
+    <string name="font_preview_card_content_description">フォントのプレビュー</string>
 </resources>
